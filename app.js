@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBU_bQFrKNJS3lvpwh6UAzCesxhAL0xnjg",
-  authDomain: "app-crud-nube-ad2a0.firebaseapp.com",
-  projectId: "app-crud-nube-ad2a0",
-  storageBucket: "app-crud-nube-ad2a0.firebasestorage.app",
-  messagingSenderId: "317726744116",
-  appId: "1:317726744116:web:198b362bc1283a13003461"
-};
+    apiKey: "AIzaSyBU_bQFrKNJS3lvpwh6UAzCesxhAL0xnjg",
+    authDomain: "app-crud-nube-ad2a0.firebaseapp.com",
+    projectId: "app-crud-nube-ad2a0",
+    storageBucket: "app-crud-nube-ad2a0.firebasestorage.app",
+    messagingSenderId: "317726744116",
+    appId: "1:317726744116:web:198b362bc1283a13003461"
+  };
 
 firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
