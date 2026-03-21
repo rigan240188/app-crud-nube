@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  color: gradiant(yellow,red);
+  padding: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px;
+}
+
+li {
+  margin: 10px 0;
+}
