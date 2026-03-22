@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  color: gradiant(yellow,red);
+  background: linear-gradient(to bottom right, pink, black);
   padding: 20px;
 }
 
